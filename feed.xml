@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Тут должен быть креативный заголовок</title>
+    <description>Самое креативное описание когда-то будет здесь.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 10 Jul 2015 17:28:10 +0300</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2015 17:28:10 +0300</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Добро пожаловать в мой блог</title>
+        <description>&lt;p&gt;Первая заметка в моем блоге. В очередной раз пробую начать вести блог и писать в нем регулярно. Что
+из этого получится - будет видно позже. А пока немного расскажу о своих планах.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Jul 2015 17:03:39 +0300</pubDate>
+        <link>http://localhost:4000/welcome/2015/07/10/welcome.html</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome/2015/07/10/welcome.html</guid>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+  </channel>
+</rss>
